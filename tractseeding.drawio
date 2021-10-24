@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T11:42:21.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="iJtG9EW8L_c3VazO-oPJ" version="15.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-24T12:07:53.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="O8NVMT46_v5JKxqt69mV" version="15.5.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1372" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,14 +34,20 @@
         <mxCell id="LaizTbFy-LAUrdLneM8d-6" value="&lt;font style=&quot;font-size: 12px&quot;&gt;vtkSlicerTractographyInteractiveSeedingLogic::CreateTracts(...)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="395" width="350" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="iKmZFkRaNyjbxUgaSiSb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LaizTbFy-LAUrdLneM8d-8" target="iKmZFkRaNyjbxUgaSiSb-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LaizTbFy-LAUrdLneM8d-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;CreateTractsForOneSeed&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="495" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iKmZFkRaNyjbxUgaSiSb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.321;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LaizTbFy-LAUrdLneM8d-10" target="iKmZFkRaNyjbxUgaSiSb-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LaizTbFy-LAUrdLneM8d-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;CreateTractsForLabelMap&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="495" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iKmZFkRaNyjbxUgaSiSb-0" value="vtkSeedTracts::SeedStreamlineFromPoint" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="580" width="240" height="20" as="geometry" />
+          <mxGeometry x="230" y="620" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -54,11 +60,17 @@
         <mxCell id="vULla0lc9qG8vI1ttDaR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vULla0lc9qG8vI1ttDaR-1" source="vULla0lc9qG8vI1ttDaR-7" target="vULla0lc9qG8vI1ttDaR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vULla0lc9qG8vI1ttDaR-7" value="&lt;span&gt;vtkSeedTracts&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vULla0lc9qG8vI1ttDaR-1">
-          <mxGeometry x="320" y="310" width="90" height="20" as="geometry" />
+        <mxCell id="vULla0lc9qG8vI1ttDaR-7" value="&lt;span&gt;vtkSeedTracts&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="vULla0lc9qG8vI1ttDaR-1">
+          <mxGeometry x="290" y="310" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vULla0lc9qG8vI1ttDaR-8" value="vtkHyperStreamlineDTMRI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vULla0lc9qG8vI1ttDaR-1">
+        <mxCell id="0vQCdzm3ElImdoyjisg8-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vULla0lc9qG8vI1ttDaR-1" source="vULla0lc9qG8vI1ttDaR-8" target="0vQCdzm3ElImdoyjisg8-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vULla0lc9qG8vI1ttDaR-8" value="vtkHyperStreamlineDTMRI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="vULla0lc9qG8vI1ttDaR-1">
           <mxGeometry x="455" y="310" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0vQCdzm3ElImdoyjisg8-0" value="vtkDiffusionTensorMathematics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="vULla0lc9qG8vI1ttDaR-1">
+          <mxGeometry x="445" y="410" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
