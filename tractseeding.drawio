@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T10:05:58.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="m-X8HyCrNMq-foGePdAG" version="15.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:34:34.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="IkBNzVb60xXuXeiM70l8" version="15.6.6" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -359,12 +359,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QCS5S3FVB49SV03wbvqa" name="Page-7">
-    <mxGraphModel dx="1550" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Q92zxLjncz7_PuPQmezk-0" />
         <mxCell id="Q92zxLjncz7_PuPQmezk-1" parent="Q92zxLjncz7_PuPQmezk-0" />
         <mxCell id="Q92zxLjncz7_PuPQmezk-3" value="vtkMRMLDiffusionTensorDisplayPropertiesNode" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=0;fontColor=default;strokeColor=#006658;" vertex="1" collapsed="1" parent="Q92zxLjncz7_PuPQmezk-1">
-          <mxGeometry x="80" y="720" width="290" height="26" as="geometry">
+          <mxGeometry x="70" y="590" width="290" height="26" as="geometry">
             <mxRectangle x="40" y="250" width="320" height="104" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -385,20 +385,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q92zxLjncz7_PuPQmezk-7" value="&lt;div&gt;&amp;nbsp;/// display pipeline&lt;/div&gt;&lt;div&gt;&lt;span&gt;vtkPolyDataTensorToColor *TensorToColor;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;vtkPolyDataColorLinesByOrientation *ColorLinesByOrientation;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
+        <mxCell id="Q92zxLjncz7_PuPQmezk-7" value="&lt;div&gt;&amp;nbsp;/// display pipeline&lt;/div&gt;&lt;div&gt;&lt;span&gt;vtkPolyDataTensorToColor *TensorToColor;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;vtkPolyDataColorLinesByOrientation *ColorLinesByOrientation;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
           <mxGeometry x="165" y="290" width="350" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q92zxLjncz7_PuPQmezk-8" value="vtkMRMLDiffusionTensorDisplayPropertiesNode : public vtkMRMLColorTableNode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
+        <mxCell id="Q92zxLjncz7_PuPQmezk-8" value="vtkMRMLDiffusionTensorDisplayPropertiesNode : public vtkMRMLColorTableNode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
           <mxGeometry x="140" y="450" width="450" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q92zxLjncz7_PuPQmezk-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=#006658;fillColor=#21C0A5;labelBackgroundColor=default;" edge="1" parent="Q92zxLjncz7_PuPQmezk-1" source="Q92zxLjncz7_PuPQmezk-9" target="Q92zxLjncz7_PuPQmezk-7">
+        <mxCell id="Q92zxLjncz7_PuPQmezk-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="Q92zxLjncz7_PuPQmezk-1" source="Q92zxLjncz7_PuPQmezk-9" target="Q92zxLjncz7_PuPQmezk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q92zxLjncz7_PuPQmezk-9" value="vtkMRMLFiberBundleDisplayNode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
+        <mxCell id="Q92zxLjncz7_PuPQmezk-9" value="vtkMRMLFiberBundleDisplayNode" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
           <mxGeometry x="240" y="160" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q92zxLjncz7_PuPQmezk-12" value="Fiberbundle颜色设置相关类" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;fontStyle=1;fontSize=16;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
           <mxGeometry x="265" y="20" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Q92zxLjncz7_PuPQmezk-14" value="vtkPolyDataColorLinesByOrientation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;labelBackgroundColor=default;sketch=0;fontSize=16;fontColor=default;strokeColor=#006658;align=left;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-1">
+          <mxGeometry x="190" y="710" width="350" height="260" as="geometry">
+            <mxRectangle x="190" y="710" width="290" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q92zxLjncz7_PuPQmezk-15" value="功能：根据方向填充颜色&#xa;两种模式：1.每个点的方向.2每条线点的所有点均值方向&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBackgroundColor=default;sketch=0;fontSize=12;fontColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-14">
+          <mxGeometry y="26" width="350" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Q92zxLjncz7_PuPQmezk-16" value="如何把方向(x,y,z)映射成（R,G,B)&#xa;1.首先把方向向量归一化&#xa;2.找出R，G，B的最小值，分别减去最小值接着找到最大值，&#xa;   都除以最大值。这样就去除颜色的灰色部分。&#xa;   我们就可以使用 R、G 或 B 为 0 的模型。&#xa;   然后我们进行缩放，以便其他两个的最大值为 1。计算过程在&#xa;   RGBToIndex(double R, double G,double B, double &amp;index)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBackgroundColor=default;sketch=0;fontSize=12;fontColor=default;labelBorderColor=none;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-14">
+          <mxGeometry y="80" width="350" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q92zxLjncz7_PuPQmezk-17" value="3.现在使用逆六分仪，将其映射到索引中。&#xa;有关该代码，请参阅 vtkTensorMathematics。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBackgroundColor=default;sketch=0;fontSize=12;fontColor=default;" vertex="1" parent="Q92zxLjncz7_PuPQmezk-14">
+          <mxGeometry y="210" width="350" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
