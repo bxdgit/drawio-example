@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T06:37:19.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" version="15.7.3" etag="i_s1d9Gzu9lm8Te_KT9M" type="github"><diagram id="e_L1ogsjQZvxkK9XZ2pH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-19T11:12:58.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53" etag="ejFGf-vy6b6J4GHhpak_" version="15.7.3" type="github">
+  <diagram id="e_L1ogsjQZvxkK9XZ2pH" name="UI">
+    <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-1" value="体数据选择(CTA,t1,dwi,ct)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vu7c68HnCX-WUGbhjU9a-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
