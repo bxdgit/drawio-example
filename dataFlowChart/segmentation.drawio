@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T08:24:41.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="eYbM7wUxnkBWbEjemFht" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-13T08:38:46.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.55" etag="rrliOlMIMjZvvvxKB3Oe" version="16.2.4" type="github" pages="4">
   <diagram id="4c1VpRGPmlPNdRo71NXQ" name="AddSegment">
     <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,10 +38,13 @@
           <mxGeometry x="34" y="600" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s3rufNziZU5dvXYHIQSV-3" value="vtkSegmentationModifier::ModifyBinaryLabelmap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="84" y="660" width="280" height="20" as="geometry" />
+          <mxGeometry x="70" y="710" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s3rufNziZU5dvXYHIQSV-4" value="在修该segment的labmap的时候才正真的设置了labelmap" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="490" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s3rufNziZU5dvXYHIQSV-5" value="这里面的逻辑包含了怎样写入&lt;br&gt;例如是覆盖写入还是不覆盖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="645" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
